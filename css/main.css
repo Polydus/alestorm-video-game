@@ -1,0 +1,19 @@
+@font-face {
+    font-family: FixedsysExcelsior301Regular;
+    font-style: normal;
+    font-weight: 400;
+    src: url(/font/Fixedsys.ttf);
+}
+
+
+body {
+	background-color: #eeeeee;
+}
+
+.row {
+	text-align: center;
+}
+
+#container > canvas{
+	margin: auto;
+}
